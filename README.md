@@ -133,12 +133,12 @@ GPA: 4.7/5.0<br>
 
 ## Skills  
   
-Python3 (flask, aiohttp/asyncio), Javascript ES5
-PostgreSQL и MongoDB
-Redis
-CSS3, HTML5, jQuery
-NATS
-Docker, docker-compose
+Python3 (flask, aiohttp/asyncio), Javascript ES5  
+PostgreSQL и MongoDB  
+Redis  
+CSS3, HTML5, jQuery  
+NATS  
+Docker, docker-compose  
 
 Python · flask · asyncio · PostgreSQL · Redis · MongoDB · Docker · Git
 
